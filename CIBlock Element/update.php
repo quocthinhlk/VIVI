@@ -9,9 +9,6 @@ $arField = array(
 	'EMPLOYEE_FIELD'	=>	'Bitrix24',
 	'COMPANY'			=>	'Vitranet24',
 );
-// ---------Add PropertyEnum---------
-
-// ------------------------------------
 
 $arLoadProductArray = Array(
 	"MODIFIED_BY"     	=> $USER -> GetID(),
